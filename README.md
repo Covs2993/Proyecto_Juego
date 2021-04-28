@@ -1,8 +1,52 @@
-# Proyecto_Juego
-´TU información ha sido secuestrada por un amante de las películas. Para poder recuperarlo tendrás que contestar de manera correcta XX preguntas respecto a los Oscares. 
 
-Sigue las siguientes instrucciones:
+Cinepolis - Los Oscars cifrados
 
-1) Abre el archivo XX
-2) Én el te aparecerán de manera aleatoria 5 preguntas, que deberás de contestar de manera correcta.
+¿Muy conocedor?
+
+Si te sabes todos los detalles de los Oscars, es momento de demostarlos con esta divertida trivia. En la cual, si llegas a la fase final y pones en práctica tus habilidades de investigador, lograrás descifrar la respuesta correcta y, de paso ganarte dos entradas para la pelìcula que quieras que podás hacer valido por los siguientes tres meses. 
+
+Vamos a comenzar!!!
+
+¿Cómo se juega?
+
+1) Ingresa a tu aplicación de Cinepolis y ve al apartado de Oscars
+
+2) Te aparecerán de manera aleatoria 5 preguntas, en dónde:
+   
+   * Si contestas las cinco preguntas correctamente pasas a la fase final
+   
+   * Si contestas cuatro preguntas correctamente te daremos un chance más de contestar otra pregunta para pasar a la fase final. OJO!!! Si contestas mal      
+   ¡Pierdes =(!
+   
+   * Y! si tienes menos de cuatro correctas habrás perdido automaticamente
+
+3) Ahora, supongamos que pasaste a la fase final, aquí es donde aplicaras tus maravillosas habilidades de insvestigador y deducción 
+   
+   ¿Cómo?
+    - Te enviaremos dos preguntas más y te daremos la respuestas CORRECTA!! peeeero CIFRADA, ¿qué significa esto? Que el texto te aparecera con un texto que tiene 
+    poco sentido en el lenguaje ordinario.
+    
+    Aquí un ejemplo:
+    
+    Cada letra de la respuesta Correcta fue reemplazada por otra letra del alfabeto en tres posiciones a la derecha es decir:
+    
+    
+
+    
+    
+    
+    
+
+    Veamos esto en acción – encriptemos el texto “HELLO WORLD” usando un desplazamiento a la derecha de 3.
+    
+    
+    
+    
+    
+    
+    
+
+
+
+4) 
 
