@@ -30,15 +30,9 @@ Vamos a comenzar!!!
     Como cada letra de la respuesta Correcta fue reemplazada por otra letra del alfabeto en tres posiciones a la derecha, harás uso de la siguiente tabla que te 
     permitira DESCIFRAR la respuesta.
     
+    <img width="778" alt="Cifrado" src="https://user-images.githubusercontent.com/81124725/116337159-50abb100-a79f-11eb-8ec5-185f63fbef38.png">
     
-    
-    
-    
-   
-   
-   
-   
-   Y, finalmente si logras DESCIFRAR las dos respuestas habrás GANADO!!!!
+      Y, finalmente si logras DESCIFRAR las dos respuestas habrás GANADO!!!!
    
    
    ¿Estás listo?
