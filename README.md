@@ -1,5 +1,4 @@
-
-Cinepolis - Los Oscars cifrados
+# Los Oscars cifrados
 
 ¿Muy conocedor?
 
