@@ -28,25 +28,21 @@ Vamos a comenzar!!!
     
     Aquí un ejemplo:
     
-    Cada letra de la respuesta Correcta fue reemplazada por otra letra del alfabeto en tres posiciones a la derecha es decir:
-    
-    
-
-    
-    
-    
-    
-
-    Veamos esto en acción – encriptemos el texto “HELLO WORLD” usando un desplazamiento a la derecha de 3.
+    Como cada letra de la respuesta Correcta fue reemplazada por otra letra del alfabeto en tres posiciones a la derecha, harás uso de la siguiente tabla que te 
+    permitira DESCIFRAR la respuesta.
     
     
     
     
     
-    
-    
-
-
-
-4) 
-
+   
+   
+   
+   
+   Y, finalmente si logras DESCIFRAR las dos respuestas habrás GANADO!!!!
+   
+   
+   ¿Estás listo?
+   
+   Vamos a JUGAR!!!
+   
