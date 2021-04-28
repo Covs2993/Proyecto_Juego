@@ -30,8 +30,8 @@ Vamos a comenzar!!!
     
       Respuesta correcta: HELLO WORLD    Respuesta cifrada:  KHOOR ZRUOG
     
-    Como cada letra de la respuesta Correcta fue reemplazada por otra letra del alfabeto en tres posiciones a la derecha, tendrás que hacer harás uso de la 
-    siguiente tabla que te permitira DESCIFRAR las respuestas.
+    Como cada letra de la respuesta Correcta fue reemplazada por otra letra del alfabeto en tres posiciones a la derecha, tendrás que hacer uso de la 
+    siguiente tabla, la cual que te permitira DESCIFRAR las respuestas.
     
     <img width="778" alt="Cifrado" src="https://user-images.githubusercontent.com/81124725/116337159-50abb100-a79f-11eb-8ec5-185f63fbef38.png">
     
